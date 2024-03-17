@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Transportation System Project/bus_transport.c
+bus_transport.h
+D:/Transportation System Project/bus_transport.h
+
+D:/Transportation System Project/bus_transport.h
+stdio.h
+-
+

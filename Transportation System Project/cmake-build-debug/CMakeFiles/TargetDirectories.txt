@@ -1,0 +1,3 @@
+D:/Transportation System Project/cmake-build-debug/CMakeFiles/CLion_Projects.dir
+D:/Transportation System Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Transportation System Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
